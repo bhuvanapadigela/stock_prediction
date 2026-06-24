@@ -4,7 +4,7 @@ git clone https://github.com/bhuvanapadigela/stock_prediction.git
 cd stock_prediction
 
 
-pip install streamlit pandas scikit-learn matplotlib
+pip install -r requirements.txt
 
 
 python train_model.py
