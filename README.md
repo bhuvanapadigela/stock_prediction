@@ -7,7 +7,7 @@ cd stock_prediction
 venv\Scripts\activate
 
 
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 
 python train_model.py
