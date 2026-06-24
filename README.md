@@ -4,6 +4,9 @@ git clone https://github.com/bhuvanapadigela/stock_prediction.git
 cd stock_prediction
 
 
+venv\Scripts\activate
+
+
 pip install -r requirements.txt
 
 
